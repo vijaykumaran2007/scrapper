@@ -1,9 +1,0 @@
-flask
-requests
-pytrends
-apscheduler
-
-
-x
-JVV1v9noLtu6GPTY9M7YFGBRG
-sk-ad1dff2916b64198881456cc0df4e6e2
